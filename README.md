@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Sarvjeet Singh Kashyap
 👋 Hi, I’m Sarvjeet Singh Kashyap<br>🚀 Laravel & Full-Stack Developer<br>I am a results-driven Software Developer with a deep focus on the Laravel ecosystem. I specialize in building scalable web applications, designing efficient database architectures, and integrating complex APIs. With a background that bridges Information Technology and Accounting (ICAI), I bring a unique analytical approach to solving business problems through code.<br><br>🛠 Tech Stack<br>Backend: PHP (Laravel), MySQL<br><br>Frontend: JavaScript, Blade<br><br>📈 What I Do<br><br>Full-Stack Solutions: Creating seamless user experiences from database to UI.<br><br>Performance Optimization: Refactoring legacy code and optimizing SQL queries for speed and scale.<br><br>FinTech Logic: Leveraging my accounting background to build precise financial and ERP modules.<br><br>📫 Connect with Me<br>LinkedIn: linkedin.com/in/sarvjeetsinghkashyap
 
 
