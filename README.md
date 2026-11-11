@@ -1,6 +1,96 @@
-# 💫 About Me: Sarvjeet Singh Kashyap
-👋 Hi, I’m Sarvjeet Singh Kashyap<br>🚀 Laravel & Full-Stack Developer<br>I am a results-driven Software Developer with a deep focus on the Laravel ecosystem. I specialize in building scalable web applications, designing efficient database architectures, and integrating complex APIs. With a background that bridges Information Technology and Accounting (ICAI), I bring a unique analytical approach to solving business problems through code.<br><br>🛠 Tech Stack<br>Backend: PHP (Laravel), MySQL<br><br>Frontend: JavaScript, Blade<br><br>📈 What I Do<br><br>Full-Stack Solutions: Creating seamless user experiences from database to UI.<br><br>Performance Optimization: Refactoring legacy code and optimizing SQL queries for speed and scale.<br><br>FinTech Logic: Leveraging my accounting background to build precise financial and ERP modules.<br><br>📫 Connect with Me<br>LinkedIn: linkedin.com/in/sarvjeetsinghkashyap
+<div align="center" style="line-height: 20px">
+    <span style="font-size: 25px; font-weight: 900;">SARVJEET SINGH KASHYAP<span><br>
+    <span style="font-size: 20px; font-weight: 400;">V.P.O Lodhimajra, Baddi, Solan, Himachal Pradesh - 174101<br>
+    Email: sarvjeetsinghkashyap@gmail.com</span>
+</div>
 
+<br>
+
+> ## 💫 About Me: Sarvjeet Singh Kashyap
+> 👋 Hi, I’m Sarvjeet Singh Kashyap<br>🚀 Laravel & Full-Stack Developer<br>I am a results-driven Software Developer with a deep focus on the Laravel ecosystem. I specialize in building scalable web applications, designing efficient database architectures, and integrating complex APIs. With a background that bridges Information Technology and Accounting (ICAI), I bring a unique analytical approach to solving business problems through code.<br><br>🛠 Tech Stack<br>Backend: PHP (Laravel), MySQL<br><br>Frontend: JavaScript, Blade<br><br>📈 What I Do<br><br>Full-Stack Solutions: Creating seamless user experiences from database to UI.<br><br>Performance Optimization: Refactoring legacy code and optimizing SQL queries for speed and scale.<br><br>FinTech Logic: Leveraging my accounting background to build precise financial and ERP modules.<br><br>📫 Connect with Me<br>LinkedIn: linkedin.com/in/sarvjeetsinghkashyap
+
+## Career and Experience
+
+```mermaid
+flowchart TD
+    style School10 fill:#b2e6d4,stroke:#333,stroke-width:1.5px
+    style School12 fill:#b2e6d4,stroke:#333,stroke-width:1.5px
+    style College fill:#b2e6d4,stroke:#333,stroke-width:1.5px
+    style ARA fill:#b2e6d4,stroke:#333,stroke-width:1.5px
+    style KCS fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style GCB fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+
+    School10["<b>2018 - 2019</b><br/>Matriculation / 10th<br/><i>Royal Public Snr. Sr. School<br> (Aff: Himachal Pradesh Board of School Education)</i>"]
+    School12["<b>2019 - 2020</b><br/>Plus 2 / 12th<br/><i>Royal Public Snr. Sr. School<br> (Aff: Himachal Pradesh Board of School Education)</i>"]
+    College["<b>2020 - 2022</b><br/>B.Com / Graduation<br/><i>Himachal Pradesh University</i>"]
+    ARA["<b>2022 - 2025</b><br/>Articleship Trainee<br/><i>Arora Rajiv & Associates</i>"]
+    KCS["<b>2025 - Present</b><br/>Founder<br/><i>Kashyap Consultancy Services</i>"]
+    GCB["<b>2025 - Present</b><br/>Assistant Accountant<br/><i>Gobind Coach Builders</i>"]
+    
+    School10 --"May-2019"--> School12
+    School12 --"May-2020"--> College
+    College --"Jul-2022"--> ARA
+    ARA --"Oct-2025"--> KCS
+    ARA --"Nov-2025"--> GCB    
+
+```
+
+## Skills
+
+```mermaid
+mindmap
+  root((<b>Sarvjeet Singh<br/>Kashyap</b>))
+    <b>Automations and Workflows</b>
+        AppSheet No-Code App Development
+        Google Appscript
+        Microsoft Power
+
+    <b>Web Development</b>
+        Database Management System
+        Cascading Style Sheets
+        JavaScript
+        PHP
+        MySQL
+        HTML
+        Laravel
+
+    <b>Artificail Inteligence</b>
+        Google AI Studio
+
+    <b>Management</b>
+        Internal Financial Controll
+        Financial Reporting
+        Management Information Systems
+
+    <b>Auditing</b>
+        Internal Audit
+        Statutory Audit
+        Stock Audit
+        Revenue Audit
+
+    <b>Taxation</b>
+        Goods and Services Tax
+        Income Tax
+        TDS / TCS
+
+    <b>Accounting</b>
+        Bookkeeping
+        Financial Reporting
+        Tally Prime
+        Branch Accounting
+        Accounting Standards
+
+    <b>Advisory & Tech</b>
+        Business Setup
+        MS Excel
+        Client Consultation
+    
+    <b>Corporate Law</b>
+        Company Incorporation
+        ROC Compliance
+        SPICe+ Filings
+
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvjeetsinghkashyap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvjeetsinghkashyap) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sarvjeetsinghk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarvjeetsinghkashyap@gmail.com) 
